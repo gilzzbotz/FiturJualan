@@ -13,7 +13,7 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 *࿊⃟〽️* Platfrom : ${os.platform()}
 *࿊⃟〽️* Mode : ${publik ? 'Public' : 'Self'}
 *࿊⃟〽️* Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}
-*࿊⃟〽️* Name Creator : Helga Zex
+*࿊⃟〽️* Name Creator : GilzzOFC
 
 
        『 USER INFO 』
