@@ -69,7 +69,7 @@ exec(`cd /sdcard/download && play *mp3`)
    
    helga.on('chat-update', async (mek) => {
         require('./helga.js')(helga, mek)
-        ownerNumber = ["6282138919347@s.whatsapp.net","6282138919347@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        ownerNumber = ["62815730794089@s.whatsapp.net","6285730794089@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
         dtod = "6282138919347@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })   
